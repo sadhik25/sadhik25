@@ -11,11 +11,9 @@
 
 - 🤝 I’m looking for help with **Data Science with Python**
 
-- 💬 Ask me about **Python,HTML,CSS,JAVASCRIPT**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **sadhik.shaikmma786@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1TNlAet1abz8TPUq-g-sneegnEzDXNLO1](https://drive.google.com/drive/u/0/folders/1TNlAet1abz8TPUq-g-sneegnEzDXNLO1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
